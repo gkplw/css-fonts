@@ -1,1 +1,9 @@
-/* Start coding here */
+@font-face {
+    font-family: "iannnnnCPU (2005)";
+    src: url("C:\Users\ASUS\OneDrive\Desktop\New folder (2)\css-fonts\ex2-web-fonts\fonts") format("ttf"); /* ตัวอย่าง: url("fonts/myfont.woff2") format("woff2") */
+    /* เพิ่มคุณสมบัติอื่นๆ ตามต้องการ เช่น font-weight, font-style */
+  }
+
+  body {
+    font-family: "iannnnnCPU (2005)", sans-serif; /* ระบุชื่อฟอนต์ที่กำหนดไว้ */
+  }
